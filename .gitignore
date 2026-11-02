@@ -1,0 +1,12 @@
+# Executabile si fisiere obiect
+*.exe
+*.o
+*.out
+*.obj
+
+# Fisiere de test pentru criptare
+*.lock
+test_*
+
+# Foldere specifice VS Code
+.vscode/
